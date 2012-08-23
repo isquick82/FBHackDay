@@ -1,0 +1,9 @@
+.fbPhoto {
+    width:145px;
+    height:145px;
+    position:absolute;
+    left:335px;
+    top:155px;
+    z-index:-1;
+
+}
